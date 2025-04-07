@@ -11,6 +11,10 @@ Design a **single-stage-to-orbit (SSTO)** vehicle capable of:
 
 ---
 
+<img src="spacecraft.png"></img>
+
+---
+
 ## 💡 General Characteristics
 
 | Feature                   | Specification                  |
