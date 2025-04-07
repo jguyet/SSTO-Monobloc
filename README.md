@@ -1,5 +1,9 @@
 # 🚀 SSTO Monobloc – Compact Orbital Vehicle with 13 km Mid-Air Refueling
 
+<p align="center">
+<img src="spacecraft.png" width="300"></img>
+</p>
+
 ## 📌 Objective
 
 Design a **single-stage-to-orbit (SSTO)** vehicle capable of:
@@ -8,10 +12,6 @@ Design a **single-stage-to-orbit (SSTO)** vehicle capable of:
 - Performing a **LOX/LH2 full refueling at 13 km**, using a **hybrid tank conversion system** that transforms kerosene tank volume into LOX/LH2 storage
 - Switching to **cryogenic rocket engines** to reach low Earth orbit (~7.8 km/s)
 - No detachable stages, no external infrastructure
-
----
-
-<img src="spacecraft.png"></img>
 
 ---
 
